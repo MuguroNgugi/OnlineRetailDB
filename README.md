@@ -131,10 +131,4 @@ CREATE TABLE Deliveries.DeliveryDetails
 	FOREIGN KEY (OrderID) REFERENCES Sales.Orders(OrderID)
 );
 
-OnlineRetailDB/
-├── README.md
-├── create_tables.sql
-├── sample_data.sql
-├── er_diagram.png
-├── LICENSE
 
